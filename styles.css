@@ -69,6 +69,10 @@ h1{
 
 @media(max-width:580px){
 
+    body{
+        overflow: hidden;
+    }
+
     h1{
         font-size: 45px;
     }
